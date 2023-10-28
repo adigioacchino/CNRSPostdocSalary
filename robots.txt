@@ -1,0 +1,4 @@
+Sitemap: https://https://adigioacchino.github.io/CNRSPostdocSalary/sitemap.xml
+
+User-agent: *
+Disallow:
