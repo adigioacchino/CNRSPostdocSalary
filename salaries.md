@@ -19,7 +19,7 @@ The taxes are the same for all CNRS postdocs, and they are the following:
 
 # Salary tables
 
-Tables are sorted from the most recent to the oldest.
+Salary tables contain monthly brut salaries, and are sorted from the most recent to the oldest.
 
 
 ```julia:./code/table_builder
