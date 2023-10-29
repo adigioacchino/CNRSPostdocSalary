@@ -16,7 +16,7 @@ There are several reasons why this document is not easy to navigate:
 # How to use this website
 The website is structured in four sections:
 - the ["Salary tables"](/pages/salaries) section, where you can find our most updated knowledge about salary tables;
-- the ["Offical sources"](/pages/sources) section, where you can find the original documents at the basis of the salary tables reported here;
+- the ["Official sources"](/pages/sources) section, where you can find the original documents at the basis of the salary tables reported here;
 - the ["How to contribute"](/pages/contribute) section, where you can find information about how to contribute to the website by adding new (or old) salary tables;
 - the ["Contacts"](/pages/contacts) section, where you can find our contact information.
 
