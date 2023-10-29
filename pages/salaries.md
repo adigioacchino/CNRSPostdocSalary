@@ -10,7 +10,7 @@ Paris is in zone 1.
 
 An important thing to keep in mind is that the CNRS salary _does not evolve automatically_ with time, but it is determined at the moment of the hiring and it stays the same until the end of the contract, extensions included.
 This means that if you are hired with a 3-year contract immediately after your PhD, you will have the same salary for the whole duration of the contract, but if you change host laboratory after 2 years, you will have a higher salary in the new laboratory.
-In some cases, a raise to adjust for inflation could be implemented retroactively, so that your current salary could not match exaclty the table at the time of your recruitment.
+In some cases, a raise to adjust for inflation could be implemented retroactively, so that your current salary could not match exactly the table at the time of your recruitment.
 
 # Taxes in France
 The salary of a CNRS postdoc is subject to taxes, which are automatically deducted from the salary by the CNRS.
