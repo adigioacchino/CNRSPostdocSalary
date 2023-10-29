@@ -15,8 +15,8 @@ There are several reasons why this document is not easy to navigate:
 
 # How to use this website
 The website is structured in three sections:
-- the ["Salary tables"](./salaries) section, where you can find our most updated knowledge about salary tables;
-- the ["How to contribute"](./contribute) section, where you can find information about how to contribute to the website by adding new (or old) salary tables;
-- the ["Contacts"](./contacts) section, where you can find our contact information.
+- the ["Salary tables"](/pages/salaries) section, where you can find our most updated knowledge about salary tables;
+- the ["How to contribute"](/pages/contribute) section, where you can find information about how to contribute to the website by adding new (or old) salary tables;
+- the ["Contacts"](/pages/contacts) section, where you can find our contact information.
 
 You can navigate the website using the menu on the left.

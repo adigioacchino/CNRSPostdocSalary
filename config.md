@@ -20,7 +20,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "CNRS postdoc salary"
 website_descr = "Website to have information about CNRS postdoc salary"
-website_url   = "https://https://adigioacchino.github.io/CNRSPostdocSalary/"
+website_url   = "https://adigioacchino.github.io/CNRSPostdocSalary/"
 +++
 
 <!--
