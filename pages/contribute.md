@@ -5,7 +5,7 @@ Retrieving salary tables is a tedious task, since they are buried in the [Bullet
 Moreover, we will not be postdocs forever (hopefully), so we will have less personal interest in keeping this website up-to-date.
 For these reasons, we would like to ask you to help us in keeping this website up-to-date by contributing new salary tables.
 To do so, follow these instructions:
-1. find the table you want to contribute in the [Bulletin Officiel du CNRS](https://www.cnrs.fr/fr/bulletin-officiel);
+1. find the table you want to contribute in the [Bulletin Officiel du CNRS](https://www.cnrs.fr/fr/bulletin-officiel); you can find examples of what to search for in the [Official sources](/pages/sources) section;
 2. prepare a CSV file with the following columns:
     - `1ere zone`: salary in zone 1;
     - `2e zone`: salary in zone 2;

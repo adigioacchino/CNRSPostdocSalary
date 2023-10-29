@@ -4,12 +4,13 @@
 # Salaries of CNRS postdocs
 The salary of a CNRS postdoc depends on their experience (more specifically, the number of years since they obtained their PhD).
 Up to 2 years of experience, the CNRS fixes only the minimum and maximum salary, and the actual salary is decided by the host laboratory.
-After 2 years of experience, the CNRS fixes the salary exactly.
+After 2 years of experience, the CNRS fixes the salary sharply.
 The salary changes slightly based on the zone where the laboratory is located (zone 1 to 3 in the tables). 
 Paris is in zone 1.
 
 An important thing to keep in mind is that the CNRS salary _does not evolve automatically_ with time, but it is determined at the moment of the hiring and it stays the same until the end of the contract, extensions included.
 This means that if you are hired with a 3-year contract immediately after your PhD, you will have the same salary for the whole duration of the contract, but if you change host laboratory after 2 years, you will have a higher salary in the new laboratory.
+In some cases, a raise to adjust for inflation could be implemented retroactively, so that your current salary could not match exaclty the table at the time of your recruitment.
 
 # Taxes in France
 The salary of a CNRS postdoc is subject to taxes, which are automatically deducted from the salary by the CNRS.
