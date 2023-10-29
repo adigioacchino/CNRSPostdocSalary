@@ -3,7 +3,7 @@ using CSV
 using DataFrames
 
 # read input data
-input_files = readdir("salary_data")
+input_files = readdir("_assets/salary_data")
 input_files = filter(x -> occursin(r"\.csv$", x), input_files)
 
 # month number to month name
@@ -20,7 +20,7 @@ for input in sort(input_files, rev=true)
     println("## $(month_names[input_month]) $(input_year)")
 
     # read the input file
-    t_salaries = CSV.read("salary_data/$(input)", DataFrame)
+    t_salaries = CSV.read("_assets/salary_data/$(input)", DataFrame)
     t_z1 = t_salaries[:, "1ere zone"]
     t_z2 = t_salaries[:, "2e zone"]
     t_z3 = t_salaries[:, "3e zone"]
