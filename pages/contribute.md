@@ -11,4 +11,4 @@ To do so, follow these instructions:
     - `2e zone`: salary in zone 2;
     - `3e zone`: salary in zone 3;
     The CSV file should have one row for each step of the salary scale in addition to the headers, and the first two rows must be the minimum and maximum salary for the case with less than two years of experience. You can see a template [here](https://github.com/adigioacchino/CNRSPostdocSalary/tree/main/_assets/salary_data/2020_01.csv).
-3. if you are practical with GitHub, you can open a pull request with the CSV file in the `salary_data` folder, we will check it and merge it if everything is ok; otherwise, you can send us the CSV file [by email](/pages/contacts) and we will take care of it.
+3. if you are practical with GitHub, you can open a pull request with the CSV file in the `_assets/salary_data` folder, we will check it and merge it if everything is ok; otherwise, you can send us the CSV file [by email](/pages/contacts) and we will take care of it.
