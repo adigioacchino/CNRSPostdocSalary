@@ -7,7 +7,7 @@ This document implements in practice, at the CNRS level, the French [law n° 202
 
 One of the annexes of this bulletin is the barème de rémunération (salary table) of the CNRS contract personnel.
 This table and its updated versions are the sources of the [salary tables](/pages/salaries) reported here.
-The updates, decided by the CNRS RH management, are listed below by implementation date:
+The updates, decided by the CNRS HR management, are listed below by implementation date:
 - [DEC191121DRH](/assets/excerpts/BO_2019_04_DEC191121DRH.pdf)
 - [DEC200245DRH](/assets/excerpts/BO_2020_03_DEC200245DRH.pdf)
 - [DEC202364DRH](/assets/excerpts/BO_2021_01_DEC202364DRH.pdf)
