@@ -26,6 +26,7 @@ Salary tables contain monthly brut salaries, and are sorted from the most recent
 ```julia:./code/table_builder
 using CSV
 using DataFrames
+using Printf
 
 # read input data
 input_files = readdir("_assets/salary_data")
@@ -35,7 +36,7 @@ input_files = filter(x -> occursin(r"\.csv$", x), input_files)
 month_names = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
 # read the CSV file
-template_df = CSV.read("_assets/parsed_tables/table_template.csv", DataFrame)
+template_df = CSV.read("_assets/parsed_tables/table_template.csv", DataFrame;types=String)
 
 # build a table for each input file
 for input in sort(input_files, rev=true)
@@ -46,9 +47,9 @@ for input in sort(input_files, rev=true)
 
     # read the input file
     t_salaries = CSV.read("_assets/salary_data/$(input)", DataFrame)
-    t_z1 = t_salaries[:, "1ere zone"]
-    t_z2 = t_salaries[:, "2e zone"]
-    t_z3 = t_salaries[:, "3e zone"]
+    t_z1 = map((x)->@sprintf("%.2f",x),t_salaries[:, "1ere zone"])
+    t_z2 = map((x)->@sprintf("%.2f",x),t_salaries[:, "2e zone"])
+    t_z3 = map((x)->@sprintf("%.2f",x),t_salaries[:, "3e zone"])
 
     # write parsed table as a file
     t_out = copy(template_df)
