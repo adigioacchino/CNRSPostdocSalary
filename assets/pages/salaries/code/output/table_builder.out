@@ -12,3 +12,5 @@
 \tableinput{}{parsed_tables/2021_01.csv}
 ## January 2020
 \tableinput{}{parsed_tables/2020_01.csv}
+## May 2019
+\tableinput{}{parsed_tables/2019_05.csv}
