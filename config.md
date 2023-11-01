@@ -8,7 +8,7 @@ mintoclevel = 2
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
 # please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
 # prepath = "yourproject"
-prepath = "CNRSPostdocSalary"
+prepath = "FrenchPostdocSalary"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
@@ -18,8 +18,8 @@ ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "CNRS postdoc salary"
-website_descr = "Website to have information about CNRS postdoc salary"
+website_title = "French postdoc salary"
+website_descr = "Website to have information about French postdoc salary"
 website_url   = "https://adigioacchino.github.io/CNRSPostdocSalary/"
 +++
 
