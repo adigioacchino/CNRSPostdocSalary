@@ -26,7 +26,7 @@ using Printf
 
 # read input data
 input_files = readdir("_assets/salary_data")
-input_files = filter(x -> occursin("CNRS", x), input_files)
+input_files = filter(x -> occursin(r"^CNRS.*\.csv$", x), input_files)
 
 # month number to month name
 month_names = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December", ""]
