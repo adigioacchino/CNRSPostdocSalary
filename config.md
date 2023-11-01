@@ -18,8 +18,8 @@ ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "CNRS postdoc salary"
-website_descr = "Website to have information about CNRS postdoc salary"
+website_title = "French postdoc salary"
+website_descr = "Website to have information about French postdoc salary"
 website_url   = "https://adigioacchino.github.io/CNRSPostdocSalary/"
 +++
 
