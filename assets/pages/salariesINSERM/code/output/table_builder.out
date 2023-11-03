@@ -1,2 +1,8 @@
-##  2023
-\tableinput{}{parsed_tables/INSERM_2023.csv}
+## July 2023
+\tableinput{}{parsed_tables/INSERM_2023_07.csv}
+## January 2023
+\tableinput{}{parsed_tables/INSERM_2023_01.csv}
+## July 2022
+\tableinput{}{parsed_tables/INSERM_2022_07.csv}
+## January 2021
+\tableinput{}{parsed_tables/INSERM_2021_01.csv}
