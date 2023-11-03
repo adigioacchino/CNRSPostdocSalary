@@ -28,4 +28,13 @@ The updates, decided by the CNRS HR management, are listed below by implementati
 
 # INSERM
 
-The [source](/assets/excerpts/INSERM_2023.pdf) of the [INSERM salary tables](/pages/salariesINSERM) is the [website](https://contrats-recherche.go.inserm.fr/) of the Research Contracts Service of INSERM grand ouest, at [this](https://contrats-recherche.go.inserm.fr/document-utiles-inserm-grand-ouest/) page.
+The source of the [INSERM salary tables](/pages/salariesINSERM) are the following documents:
+- [Barème de rémunération des contractuels Inserm, July 2023](/assets/excerpts/INSERM_2023_07_BaremeCDD.pdf)
+- [Barème de rémunération des contractuels Inserm, January 2023](/assets/excerpts/INSERM_2023_01_BaremeCDD.pdf)
+- [Barème de rémunération des contractuels Inserm, July 2022](/assets/excerpts/INSERM_2022_07_BaremeCDD_credits-dEtat.pdf)
+- [Barème de rémunération des contractuels Inserm, January 2021](/assets/excerpts/INSERM_2021_01_BaremeCDD.pdf)
+They have been found by scraping the web:
+- from the [website](https://pro.inserm.fr/) of the INSERM pro (at [this](https://pro.inserm.fr/rubriques/ressources-humaines/remuneration-principale/remuneration-principale-2) page); 
+- from the [website](https://contrats-recherche.go.inserm.fr/) of the Research Contracts Service of INSERM Grand Ouest (at [this](https://contrats-recherche.go.inserm.fr/document-utiles-inserm-grand-ouest/) page); 
+- from the [website](https://epst-sgen-cfdt.org/) of the Federation of General Unions of National Education (at [this](https://epst-sgen-cfdt.org/?p=33244) page);
+- from the [website](https://www.crcl.fr/) of the Cancer Research Center of Lyon (at [this](https://extranet.crcl.fr/wp-content/uploads/2023/02/baremes-CDD-01-07-2022_CDD-sur-projet-finances-sur-credits-dEtat.pdf) and [this](https://extranet.crcl.fr/wp-content/uploads/2021/05/2021-baremes-CDD-01-01-2021-1.pdf) pages);

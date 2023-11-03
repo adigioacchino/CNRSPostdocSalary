@@ -1,10 +1,12 @@
-
 @def title = "INSERM salary tables"
 
 # Salaries of INSERM postdocs
 The salary of an INSERM postdoc depends on their experience (more specifically, the number of years since they obtained their PhD).
 The salary changes slightly based on the zone where the laboratory is located (zone 1 to 3 in the tables). 
 Paris is in zone 1.
+
+As for CNRS, the INSERM salary of non-permanent personnel _does not evolve automatically_ with time, but it is determined at the moment of recruitment and it stays the same until the end of the contract.
+However, at least for the case of the update implemented in January 2023, a federation of collectives and unions negotiated with the administration an [agreement](https://web.sntrscgt.fr/spip.php?article3423) providing an automatic update of the salary of previously hired personnel _at the moment of the renewal of their contract_ (but not during its course, and with some critical issues on how to find the money).
 
 # INSERM Salary tables
 

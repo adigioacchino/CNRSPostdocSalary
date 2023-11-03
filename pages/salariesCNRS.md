@@ -1,4 +1,3 @@
-
 @def title = "CNRS salary tables"
 
 # Salaries of CNRS postdocs
