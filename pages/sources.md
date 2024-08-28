@@ -41,6 +41,10 @@ They have been found by scraping the web:
 
 # CNES
 
-Our source of the [CNES salary tables](/pages/salariesCNES) are personally obtained, original pay slips. They are not public documents and we cannot share them, however, we were in personal contact with the persons providing us with this information.
+Our source of the [CNES salary tables](/pages/salariesCNES) are original pay slips from past and current CNES postdocs,
+shared with their consent. They are not public documents, and we cannot share them as-is, but redacted information can
+be provided upon request. For further information, please contact [iva.laginja@obspm.fr](iva.laginja@obspm.fr).
 
-CNES does not publish its postdoc slaries online, nor do they advertise them in their yearly call for applications (as of their call for proposals 2024). When reaching out to them direclty in the first half of 2024 with an inquiry about gross postdoc salaries, our request remained without a response.
+CNES does not publish its postdoc salaries online, nor do they advertise them in their yearly call for applications
+(as of their call for proposals 2024). When reaching out to them directly in the first half of 2024 with an inquiry
+about gross postdoc salaries, our request remained without a response.
