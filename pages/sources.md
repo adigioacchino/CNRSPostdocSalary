@@ -38,3 +38,13 @@ They have been found by scraping the web:
 - from the [website](https://contrats-recherche.go.inserm.fr/) of the Research Contracts Service of INSERM Grand Ouest (at [this](https://contrats-recherche.go.inserm.fr/document-utiles-inserm-grand-ouest/) page); 
 - from the [website](https://epst-sgen-cfdt.org/) of the Federation of General Unions of National Education (at [this](https://epst-sgen-cfdt.org/?p=33244) page);
 - from the [website](https://www.crcl.fr/) of the Cancer Research Center of Lyon (at [this](https://extranet.crcl.fr/wp-content/uploads/2023/02/baremes-CDD-01-07-2022_CDD-sur-projet-finances-sur-credits-dEtat.pdf) and [this](https://extranet.crcl.fr/wp-content/uploads/2021/05/2021-baremes-CDD-01-01-2021-1.pdf) pages);
+
+# CNES
+
+Our source of the [CNES salary tables](/pages/salariesCNES) are original pay slips from past and current CNES postdocs,
+shared with their consent. They are not public documents, and we cannot share them as-is, but redacted information can
+be provided upon request. For further information, please contact [iva.laginja@obspm.fr](mailto:iva.laginja@obspm.fr).
+
+CNES does not publish its postdoc salaries online, nor do they advertise them in their yearly call for applications
+(as of their call for proposals 2024). When reaching out to them directly in the first half of 2024 with an inquiry
+about gross postdoc salaries, our request remained without a response.

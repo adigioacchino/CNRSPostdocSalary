@@ -11,6 +11,7 @@ The website is structured in pages:
 - the pages reporting salary tables, where you can find our most updated knowledge collected by host institution:
     - ["CNRS salary tables"](/pages/salariesCNRS);
     - ["INSERM salary tables"](/pages/salariesINSERM);
+    - ["CNES salary tables"](/pages/salariesCNES);
 - the ["Official sources"](/pages/sources) page, where you can find the original documents at the basis of the salary tables reported here;
 - the ["Taxes in France"](/pages/taxes) page, with some info on how to obtain net figures from the brut ones we report here;
 - the ["How to contribute"](/pages/contribute) page, on how to contribute to the website by adding new (or old) salary tables;

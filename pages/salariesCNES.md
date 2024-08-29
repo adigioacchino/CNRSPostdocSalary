@@ -1,14 +1,12 @@
-@def title = "INSERM salary tables"
+@def title = "CNES salary tables"
 
-# Salaries of INSERM postdocs
-The salary of an INSERM postdoc depends on their experience (more specifically, the number of years since they obtained their PhD).
-The salary changes slightly based on the zone where the laboratory is located (zone 1 to 3 in the tables). 
-Paris is in zone 1.
+# Salaries of CNES postdocs
+The salary of a CNES postdoc _does not depend on their experience_ (more specifically, the number of years since they obtained their PhD).
+The salary is defined uniform across all of France.
 
-As for CNRS, the INSERM salary of non-permanent personnel _does not evolve automatically_ with time, but it is determined at the moment of recruitment and it stays the same until the end of the contract.
-However, at least for the case of the update implemented in January 2023, a federation of collectives and unions negotiated with the administration an [agreement](https://web.sntrscgt.fr/spip.php?article3423) providing an automatic update of the salary of previously hired personnel _at the moment of the renewal of their contract_ (but not during its course, and with some critical issues on how to find the money).
+An important thing to keep in mind is that a CNES postdoc position comes with some additional benefits that other postdoc positions do not have, which needs to be taken into account when comparing to other postdoc positions, for example with CNRS. This includes a fully paid-for private health insurance plan (mutuelle), your public transportation being paid at 95% instead of the mandatory 50% only, and vacation contributions, among others.
 
-# INSERM Salary tables
+# Salary tables
 
 Salary tables contain monthly brut salaries, and are sorted from the most recent to the oldest.
 
@@ -20,7 +18,7 @@ using Printf
 
 # read input data
 input_files = readdir("_assets/salary_data")
-input_files = filter(x -> occursin(r"^INSERM.*\.csv$", x), input_files)
+input_files = filter(x -> occursin(r"^CNES.*\.csv$", x), input_files)
 
 # month number to month name
 month_names = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December", ""]
