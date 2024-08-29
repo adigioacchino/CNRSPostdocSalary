@@ -35,6 +35,7 @@ for input in sort(input_files, rev=true)
 
     # write parsed table as a file
     t_out = copy(template_df)
+    t_out = t_out[1:size(t_salaries, 1), :]
     t_out[:, "Experience (y)"] .= t_z0
     t_out[:, "Brut salary (€) zone 1"] .= t_z1
     t_out[:, "Brut salary (€) zone 2"] .= t_z2
