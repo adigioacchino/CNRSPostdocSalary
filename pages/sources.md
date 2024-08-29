@@ -2,7 +2,7 @@
 
 # CNRS
 
-Salaries of CNRS postdocs are fixed by the [Bulletin Officiel du CNRS](https://www.cnrs.fr/fr/bulletin-officiel), which consists in a massive (typically hundreds of pages) monthly issue collecting all the documents produced by the administration during the previous month.
+Salaries of CNRS postdocs are fixed by the [Bulletin Officiel du CNRS](https://www.cnrs.fr/fr/le-cnrs/bulletin-officiel), which consists in a massive (typically hundreds of pages) monthly issue collecting all the documents produced by the administration during the previous month.
 There are several reasons why this document is not easy to navigate:
 - it is in French, and it is not easy to find the relevant information if you do not know the language;
 - even if you do know the language, the document is not structured in a way that makes it easy to find the tables;
