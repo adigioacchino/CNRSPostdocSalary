@@ -1,7 +1,7 @@
 @def title = "How to contribute"
 
 # Retrieving salary tables
-Retrieving salary tables is a tedious task. In the case of CNRS, for example, they are buried in the [Bulletin Officiel](https://www.cnrs.fr/fr/bulletin-officiel) and they are not easy to find.
+Retrieving salary tables is a tedious task. In the case of CNRS, for example, they are buried in the [Bulletin Officiel](https://www.cnrs.fr/fr/le-cnrs/bulletin-officiel) and they are not easy to find.
 Moreover, we will not be postdocs forever (hopefully), so we will have less personal interest in keeping this website up-to-date.
 For these reasons, we would like to ask you to help us in maintaining and expanding this website by contributing new salary tables.
 

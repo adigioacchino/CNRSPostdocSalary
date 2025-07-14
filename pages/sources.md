@@ -24,6 +24,7 @@ The updates, decided by the CNRS HR management, are listed below by implementati
 - [DEC221962DRH & DEC221961DRH](/assets/excerpts/CNRS_2022_11_DEC221962DRH_DEC221961DRH.pdf)
 - [DEC234313DRH](/assets/excerpts/CNRS_2023_07_DEC234313DRH.pdf)
 - [DEC234716DRH](/assets/excerpts/CNRS_2023_08_DEC234716DRH.pdf)
+- [DEC246476DRH](/assets/excerpts/CNRS_2024_05_DEC246476DRH.pdf)
 
 
 # INSERM
