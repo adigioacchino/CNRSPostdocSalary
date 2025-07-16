@@ -37,7 +37,7 @@ The source of the [INSERM salary tables](/pages/salariesINSERM) are the followin
 They have been found by scraping the web:
 - from the [website](https://pro.inserm.fr/) of the INSERM pro (at [this](https://pro.inserm.fr/rubriques/ressources-humaines/remuneration-principale/remuneration-principale-2) page); 
 - from the [website](https://contrats-recherche.go.inserm.fr/) of the Research Contracts Service of INSERM Grand Ouest (at [this](https://contrats-recherche.go.inserm.fr/document-utiles-inserm-grand-ouest/) page); 
-- from the [website](https://epst-sgen-cfdt.org/) of the Federation of General Unions of National Education (at [this](https://epst-sgen-cfdt.org/?p=33244) page);
+- from the [website](https://cfdt-recherche-epst.org/) of the French Democratic Confederation of Labour (at [this](https://cfdt-recherche-epst.org/?p=33244) page);
 - from the [website](https://www.crcl.fr/) of the Cancer Research Center of Lyon (at [this](https://extranet.crcl.fr/wp-content/uploads/2023/02/baremes-CDD-01-07-2022_CDD-sur-projet-finances-sur-credits-dEtat.pdf) and [this](https://extranet.crcl.fr/wp-content/uploads/2021/05/2021-baremes-CDD-01-01-2021-1.pdf) pages);
 
 # CNES
