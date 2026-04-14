@@ -26,7 +26,8 @@ After that, you can serve the website locally by running the following command i
 using Pkg
 Pkg.activate(".")
 using Franklin
+optimize()
 serve()
 ```
 
-Notice that it might be needed to serve the website twice to see the changes in the tables.
+The `optimize()` function is used to build the tables from the CSV data, and the `serve()` function is used to serve the website locally with live reload.
