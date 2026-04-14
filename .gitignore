@@ -2,3 +2,7 @@ __site/
 .DS_Store
 node_modules/
 package-lock.json
+
+# parsed tables (generated from CSVs, not source data)
+_assets/parsed_tables/
+!_asserts/parsed_tables/table_template.csv
