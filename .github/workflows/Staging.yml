@@ -29,13 +29,18 @@ jobs:
       uses: julia-actions/setup-julia@v1
       with:
         version: '1.12'
+    # I need to change the prepath in config.md to ensure that within the staging environment, 
+    # all links are prefixed with the staging subfolder (e.g. `CNRSPostdocSalary/pr-123/` instead of `CNRSPostdocSalary/`).
     - name: Build
-      run: julia -e '
-              using Pkg; Pkg.activate("."); Pkg.instantiate();
-              using NodeJS; run(`$(npm_cmd()) install highlight.js`);
-              using Franklin;
-              optimize(prepath="CNRSPostdocSalary/pr-${{ github.event.pull_request.number }}");
-              optimize(prepath="CNRSPostdocSalary/pr-${{ github.event.pull_request.number }}")'
+      run: |
+        PR=${{ github.event.pull_request.number }}
+        sed -i "s|prepath = \"CNRSPostdocSalary\"|prepath = \"CNRSPostdocSalary/pr-${PR}\"|" config.md
+        julia -e '
+          using Pkg; Pkg.activate("."); Pkg.instantiate();
+          using NodeJS; run(`$(npm_cmd()) install highlight.js`);
+          using Franklin;
+          optimize();
+          optimize()'
     - name: Deploy to staging subfolder
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
