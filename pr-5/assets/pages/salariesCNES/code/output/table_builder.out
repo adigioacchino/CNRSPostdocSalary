@@ -1,0 +1,8 @@
+## March 2026
+\tableinput{}{parsed_tables/CNES_2026_03.csv}
+## June 2023
+\tableinput{}{parsed_tables/CNES_2023_06.csv}
+## October 2022
+\tableinput{}{parsed_tables/CNES_2022_10.csv}
+## March 2022
+\tableinput{}{parsed_tables/CNES_2022_03.csv}
