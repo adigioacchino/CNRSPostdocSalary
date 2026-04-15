@@ -29,6 +29,11 @@ jobs:
       uses: julia-actions/setup-julia@v1
       with:
         version: '1.12'
+    - name: Check raw salary tables
+      run: |
+        julia -e '
+            using Pkg; Pkg.activate("."); Pkg.instantiate();
+            include("tests/test_table_parsing.jl")'
     # I need to change the prepath in config.md to ensure that within the staging environment, 
     # all links are prefixed with the staging subfolder (e.g. `CNRSPostdocSalary/pr-123/` instead of `CNRSPostdocSalary/`).
     - name: Build
