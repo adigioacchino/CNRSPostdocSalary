@@ -25,6 +25,12 @@ jobs:
       uses: julia-actions/setup-julia@v1
       with:
         version: '1.12' # Use last patch release of Julia 1.12
+    - name: Check raw salary tables
+      run: |
+        julia -e '
+            using Pkg; Pkg.activate("."); Pkg.instantiate();
+            include("tests/test_table_parsing.jl")'
+
     # NOTE
     #   The steps below ensure that NodeJS and Franklin are loaded then it
     #   installs highlight.js which is needed for the prerendering step
@@ -33,7 +39,8 @@ jobs:
     #   Julia packages which may be required to successfully build your site.
     #   The last line should be `optimize()` though you may want to give it
     #   specific arguments, see the documentation or ?optimize in the REPL.
-    - run: julia -e '
+    - name: Build website
+      run: julia -e '
             using Pkg; Pkg.activate("."); Pkg.instantiate();
             using NodeJS; run(`$(npm_cmd()) install highlight.js`);
             using Franklin;
