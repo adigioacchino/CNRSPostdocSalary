@@ -8,9 +8,11 @@ Paris is in zone 1.
 As for CNRS, the INSERM salary of non-permanent personnel _does not evolve automatically_ with time, but it is determined at the moment of recruitment and it stays the same until the end of the contract.
 However, at least for the case of the update implemented in January 2023, a federation of collectives and unions negotiated with the administration an [agreement](https://sncs.fr/2023/02/23/des-avancees-pour-la-remuneration-des-contractuel-le-s-en-cdd-mais/) providing an automatic update of the salary of previously hired personnel _at the moment of the renewal of their contract_ (but not during its course, and with some critical issues on how to find the money).
 
+The update implemented in June 2026 _did not increase_ the gross salary of researchers, which however costs more to institutions (see the [2026 original source table](/assets/excerpts/INSERM_2026_06_BaremeCDD.pdf) and compare it with the [2023 one](/assets/excerpts/INSERM_2023_07_BaremeCDD.pdf)). It did however increase the salary of PhD students.
+
 # INSERM Salary tables
 
-Salary tables contain monthly brut salaries, and are sorted from the most recent to the oldest.
+Salary tables contain monthly gross salaries, and are sorted from the most recent to the oldest.
 
 
 ```julia:./code/table_builder

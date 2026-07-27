@@ -31,6 +31,7 @@ The updates, decided by the CNRS HR management, are listed below by implementati
 # INSERM
 
 The source of the [INSERM salary tables](/pages/salariesINSERM) are the following documents:
+- [Barème de rémunération des contractuels Inserm, June 2026](/assets/excerpts/INSERM_2026_06_BaremeCDD.pdf)
 - [Barème de rémunération des contractuels Inserm, July 2023](/assets/excerpts/INSERM_2023_07_BaremeCDD.pdf)
 - [Barème de rémunération des contractuels Inserm, January 2023](/assets/excerpts/INSERM_2023_01_BaremeCDD.pdf)
 - [Barème de rémunération des contractuels Inserm, July 2022](/assets/excerpts/INSERM_2022_07_BaremeCDD_credits-dEtat.pdf)
