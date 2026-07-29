@@ -10,7 +10,7 @@ There are several reasons why this document is not easy to navigate:
 
 The following documents are excerpts from the Bulletin Officiel.
 
-The status of the CNRS personnel is regulated by the [Circulaire n° CIR130864DRH](/assets/excerpts/CNRS_2022_04_CIR130864DRH.pdf), originally issued on 12 March 2013 and, since then, updated many times.
+The status of the CNRS personnel is regulated by the [Circulaire n° CIR130864DRH](/assets/excerpts/CNRS_2024_10_CIR130864DRH.pdf), originally issued on 12 March 2013 and, since then, updated many times.
 This document implements in practice, at the CNRS level, the French [law n° 2020-1674](https://fr.wikipedia.org/wiki/Loi_de_programmation_de_la_recherche_pour_les_ann%C3%A9es_2021_%C3%A0_2030) on public research.
 
 One of the annexes of this bulletin is the barème de rémunération (salary table) of the CNRS contract personnel.

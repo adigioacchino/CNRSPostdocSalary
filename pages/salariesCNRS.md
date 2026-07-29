@@ -9,7 +9,9 @@ Paris is in zone 1.
 
 An important thing to keep in mind is that the CNRS salary _does not evolve automatically_ with time, but it is determined at the moment of the hiring and it stays the same until the end of the contract, extensions included.
 This means that if you are hired with a 3-year contract immediately after your PhD, you will have the same salary for the whole duration of the contract, but if you change host laboratory after 2 years, you will have a higher salary in the new laboratory.
-In some cases, a raise to adjust for inflation could be implemented retroactively, so that your current salary could not match exactly the table at the time of your recruitment.
+In some cases, a raise to adjust for inflation could be implemented retroactively, so that your current salary could not match exactly the table at the time of your recruitment. 
+
+The only _exception to this rule_ we are aware of is in the case of researchers with less than 2 years of experience at the time of recruitment, and with salary strictly less than the maximum value in the allowed range reported in the tables: at the beginning of their third year of contract, they should obtain an automatic raise to the maximum value in the salary range for researchers with up to 2 years of experience. For example, if you were hired in June 2024 for 3 years with a salary of 2991.58 €, the minimum for a junior CNRS postdoc at the time, your salary should have been raised to 3417.33 € starting from June 2026 (or 3467.33 € in case the new table introduced in December 2025 applies, this detail is not clear to us); note however that, if you instead started a brand new CNRS contract at that time, by then you would have more than 2 years of experience, and your salary under the new contract should be 4216.70 €. This exception is reported in the internal CNRS notice on the status of the CNRS researchers on fixed-term contracts, [Circulaire n° CIR130864DRH](/assets/excerpts/CNRS_2024_10_CIR130864DRH.pdf), Section C.1.a, "Cas particuliers" (see our ["Official sources"](/pages/sources) page).
 
 
 
